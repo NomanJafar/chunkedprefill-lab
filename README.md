@@ -14,7 +14,7 @@ Long-context requests starve decode without scheduling control.
 
 ## Status
 
-Concept primer written (`CONCEPTS.md`). The experiment notebook is next; results land in `results/` once the GPU run is done.
+Primer, analysis code and the two-stream experiment notebook are done; the GPU run is next.
 
 ## Layout
 
